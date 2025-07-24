@@ -2,7 +2,7 @@ Here's a more visually appealing and structured version of your `README.md`, usi
 
 ---
 
-# 🐦 Twitter Feed Aggregator
+# 🐦 Twitter Feed Aggregator Developed by Showkath-hub
 
 **Twitter Feed Aggregator** is a web application built with Flask that fetches and displays recent tweets for any specified Twitter username. The application integrates with the Twitter API to create a seamless and visually attractive experience, displaying tweets in a card-style layout inspired by the classic Twitter design.
 
